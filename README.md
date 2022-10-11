@@ -1,14 +1,21 @@
 ### Hi there 👋
 
-I'm Nicholas, a senior frontend developer and snowboarder living and working in Italy.
+## Sept 2021 - Current
+Senior Frontend Developer @ Caffeina
 
-Since 1999 I have been a web enthusiast.
+## May 2017 - Sept 2021
+Senior Frontend Developer @ AKQA
 
-In every project I have been involved with, I have tried to experiment and innovate, both in freelance projects like "Hello Ciak" (a telegram bot with over 215k users who have used it) and "Weathery Mood" (a Chrome extension with 15k active daily users), as well as in my professional website and webapp development for large Italian and international clients.
+## May 2013 - May 2017
+Frontend Developer @ H-ART
 
-My career started at a small web agency in my hometown of Bergamo, where I learned the ropes before accepting a position in H-ART, one of Italy's best web agencies (now part of the AKQA network).
+## May 2013 - May 2017
+Frontend Developer @ H-ART
 
-After 5 years in AKQA, I joined Caffeina as Senior Frontend Developer.
+## ...
+Some other interesting positions in smaller Italian agencies
+
+
 
 <!--
 **nicholasruggeri/nicholasruggeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
