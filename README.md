@@ -3,11 +3,11 @@
 
 ## Experience
 
-[⚽ **Deltatre**](https://www.deltatre.com/)
-[⚫ **Maize**](https://www.maize.io)
-[☕ **CAFFEINA**](https://www.caffeina.com/)
-[⭐ **AKQA**](https://www.akqa.com/)
-[🖤 **H-ART**](https://www.instagram.com/hartframes)
+- [⚽ **Deltatre**](https://www.deltatre.com/)
+- [⚫ **Maize**](https://www.maize.io)
+- [☕ **CAFFEINA**](https://www.caffeina.com/)
+- [⭐ **AKQA**](https://www.akqa.com/)
+- [🖤 **H-ART**](https://www.instagram.com/hartframes)
 
 ## Projects
 
